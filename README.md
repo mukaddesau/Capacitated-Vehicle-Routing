@@ -1,5 +1,5 @@
 # Capacitated-Vehicle-Routing
-Kamyonlaştırma ve Rotalama: Minimum sayıda kamyon kullanarak en dolu şekilde mağazalara siparişlerin paletlenerek en kısa rotalardan teslim edilmesi amaçlanmaktadır. Rotalama günlük olarak yapılacaktır.
+Kamyonlaştırma ve Rotalama: En dolu şekilde, minimum sayıda kamyon kullanarak siparişlerin paletlenmesi ve mağazalara  en kısa rotalardan teslim edilmesi amaçlanmaktadır. Rotalama günlük olarak yapılacaktır. Bu kısımda kamyonlaştırma kısmı ele alınmadan sadece rotalamaya odaklanılmıştır.
 
 Rotalama Çıktıları:
 ( Depo : 1 )
